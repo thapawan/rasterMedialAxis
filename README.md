@@ -1,5 +1,3 @@
-Got it\! Here's the README tailored for your R package, "MMAT," designed for river centerline extraction and water-surface width estimation, mirroring the Python version but with R-specific details.
-
 ## Modified Medial Axis Transform for River Centerline Extraction and Water-surface Width Estimation (MMAT)
 
 <hr style="border: 1px solid black; margin: 0;">
